@@ -1,6 +1,13 @@
 # 💫 I'm Narayan kaumarya
 I am student of Rungta international skills university<br>I'm a passionate learner focused on programming, web development, and creative technology<br><br><br><br><br>
+💻 Developer | Designer | Cloud Enthusiast  
+🌱 Always learning & building projects  
 
+🛠️ Languages & Frameworks: C • Python • JavaScript • HTML5 • CSS3  
+☁️ Cloud & DevOps: AWS • Google Cloud • Netlify • GitHub Actions • GitLab CI 
+📊 Data & ML: TensorFlow • Pandas • scikit-learn • Jest • MySQL • SQLite  
+🎨 Design & Multimedia: Photoshop • Lightroom • Illustrator • After Effects • Premiere Pro • Blender • Canva • Figma • Sketch  
+🌟 Passionate about creating, coding, and continuous growth
 
 ## 🌐 Connect with me 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/x8nEJZpZ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sagar kaumarya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagar_kau00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Narayan bhai kaumarya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narayan.bhai.kaumarya@rungta.org) 

@@ -1,5 +1,5 @@
 # 💫 I'm Narayan kaumarya
-I am Narayan kaumarya<br>I am student of Rungta international skills university<br>I'm a passionate learner focused on programming, web development, and creative technology<br><br><br><br><br>
+I am student of Rungta international skills university<br>I'm a passionate learner focused on programming, web development, and creative technology<br><br><br><br><br>
 
 
 ## 🌐 Connect with me 
